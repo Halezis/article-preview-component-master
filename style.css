@@ -40,14 +40,14 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 35rem;
+  width: 40rem;
   margin: 7rem auto;
   border-radius: 10px;
   position: relative;
 }
 
 .img-container img {
-  width: 35rem;
+  width: 40rem;
   border-radius: 10px 10px 0 0;
 }
 
